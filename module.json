@@ -1,4 +1,5 @@
 {
+  "id": "item-macro",
   "title": "Item Macro",
   "description": "A module that allows macros to be stored in items and executed in various places.",
   "esmodules": [
